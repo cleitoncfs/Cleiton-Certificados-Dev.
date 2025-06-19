@@ -1,0 +1,31 @@
+.filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.filter-btn {
+    background: #1e293b;
+    color: #cbd5e1;
+    padding: 0.5rem 1rem;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+    background: #6e07f3;
+    color: #ffffff;
+    border-color: #6e07f3;
+}
+
+.filter-btn.active {
+    background: linear-gradient(90deg, #6e07f3, #9333ea);
+    color: #ffffff;
+    border-color: transparent;
+}
