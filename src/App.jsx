@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
+import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton";
 import Section from "./components/Section/Section";
 import FilterButtons from "./components/FilterButtons/FilterButtons";
 import { certificatesData } from "./components/data/certificates.js";
@@ -36,6 +37,7 @@ function App() {
                     />
                 ))}
             </main>
+            <ScrollToTopButton />
             <Footer />
         </div>
     );
