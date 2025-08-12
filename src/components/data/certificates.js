@@ -62,8 +62,8 @@ export const certificatesData = [
         tecnologia: 'Back-end',
         categoria: 'Back-end',
         image: '/images/Back-end.png',
-        link: '',
-        inProgress: true,
+        link: 'https://www.devmedia.com.br/certificado/conclusao/?id=180425',
+        buttonText: 'Visualizar',
       },
       {
         title: 'Formação Mobile',
