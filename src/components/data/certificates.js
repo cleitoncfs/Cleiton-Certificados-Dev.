@@ -217,6 +217,14 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
+        title: 'Autoridade em API-REST',
+        tecnologia: 'REST',
+        categoria: 'Back-end',
+        image: '/images/API-REST.png',
+        link: 'https://www.devmedia.com.br/certificado/tecnologia/rest/cleiton-da-costa-faria-santos',
+        buttonText: 'Visualizar',
+      },
+      {
         title: 'Autoridade em Delphi',
         tecnologia: 'Delphi',
         categoria: 'Back-end',
