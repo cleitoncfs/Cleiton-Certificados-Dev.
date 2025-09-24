@@ -81,7 +81,7 @@ export const certificatesData = [
       'Certificados de Autoridade - Exercícios Resolvidos na Plataforma',
     certificates: [
       {
-        title: 'Autoridade em Programação',
+        title: 'Programação',
         tecnologia: 'Programação',
         categoria: 'Full-stack',
         image: '/images/programacao.png',
@@ -89,7 +89,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em HTML5',
+        title: 'HTML5',
         tecnologia: 'HTML',
         categoria: 'Front-end',
         image: '/images/html.png',
@@ -97,7 +97,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em CSS3',
+        title: 'CSS3',
         tecnologia: 'CSS',
         categoria: 'Front-end',
         image: '/images/css.png',
@@ -105,7 +105,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Algoritimo',
+        title: 'Algoritimo',
         tecnologia: 'Algoritmos',
         categoria: 'Back-end',
         image: '/images/Algoritimo.png',
@@ -113,7 +113,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em JavaScript',
+        title: 'JavaScript',
         tecnologia: 'JavaScript',
         categoria: 'Front-end',
         image: '/images/javascript.png',
@@ -121,7 +121,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em React',
+        title: 'React',
         tecnologia: 'React',
         categoria: 'Front-end',
         image: '/images/React.png',
@@ -129,7 +129,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Node.js',
+        title: 'Node.js',
         tecnologia: 'Node.js',
         categoria: 'Back-end',
         image: '/images/node.png',
@@ -137,7 +137,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em TypeScript',
+        title: 'TypeScript',
         tecnologia: 'TypeScript',
         categoria: 'Front-end',
         image: '/images/typescript.png',
@@ -145,7 +145,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Angular',
+        title: 'Angular',
         tecnologia: 'Angular',
         categoria: 'Front-end',
         image: '/images/Angular.png',
@@ -153,7 +153,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Vue.js',
+        title: 'Vue.js',
         tecnologia: 'Vue.js',
         categoria: 'Front-end',
         image: '/images/vue.png',
@@ -161,7 +161,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Python',
+        title: 'Python',
         tecnologia: 'Python',
         categoria: 'Back-end',
         image: '/images/python.png',
@@ -169,7 +169,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Django',
+        title: 'Django',
         tecnologia: 'Django',
         categoria: 'Back-end',
         image: '/images/Django.png',
@@ -177,7 +177,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em PHP',
+        title: 'PHP',
         tecnologia: 'PHP',
         categoria: 'Back-end',
         image: '/images/php.png',
@@ -185,7 +185,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Laravel',
+        title: 'Laravel',
         tecnologia: 'Laravel',
         categoria: 'Back-end',
         image: '/images/Laravel.png',
@@ -193,7 +193,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Java',
+        title: 'Java',
         tecnologia: 'Java',
         categoria: 'Back-end',
         image: '/images/java.png',
@@ -201,7 +201,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em MySQL',
+        title: 'MySQL',
         tecnologia: 'MySQL',
         categoria: 'Back-end',
         image: '/images/MySQL.png',
@@ -209,7 +209,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Git',
+        title: 'Git',
         tecnologia: 'Git',
         categoria: 'Back-end',
         image: '/images/Git.png',
@@ -217,7 +217,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em API-REST',
+        title: 'API-REST',
         tecnologia: 'REST',
         categoria: 'Back-end',
         image: '/images/API-REST.png',
@@ -225,7 +225,7 @@ export const certificatesData = [
         buttonText: 'Visualizar',
       },
       {
-        title: 'Autoridade em Delphi',
+        title: 'Delphi',
         tecnologia: 'Delphi',
         categoria: 'Back-end',
         image: '/images/Delphi.png',
